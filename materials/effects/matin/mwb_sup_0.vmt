@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"$basetexture" "effects/matin/mwb_sup_0"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$translucent" "1"	
+	"$additive" 1
+	$SEQUENCE BLENDMODE 1 //2
+	$MAX LUMF RAMEBLEND1 0
+	$MAXLUMFRAMEBLEND2 1
+	$depthblend 1
+	$STARTFADESIZE 3
+	$ENDFADESIZE 4.5
+
+}
